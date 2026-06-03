@@ -1,8 +1,6 @@
-# 🏥 Hospital Management System (Spring Boot)
+# 🏥 Healthcare Management System (Spring Boot)
 
-A full-stack Hospital Management System developed using Spring Boot, designed to efficiently manage interactions between patients, doctors, and administrators.
-
-This system includes secure role-based authentication, smart appointment booking with conflict prevention, doctor approval workflow, and a complete prescription management system.
+A Java-based Healthcare Management System built with Eclipse IDE. Streamlines hospital workflows including patient registration, doctor management, appointment scheduling, and billing operations. Designed with clean code architecture for efficient and reliable healthcare administration.
 
 ---
 
@@ -106,7 +104,7 @@ src/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/NAVEEN170804/Hospital-Appointment-System.git
+git clone https://github.com/divyar121104-tech/Healthcare-Management-System.git
 ```
 
 ### 2️⃣ Create Database
@@ -143,7 +141,7 @@ Password : admin123
 
 ---
 
-## 📸 Screenshots
+## 📸 Output Screenshots
 
 ### 🔐 Login Page
 <img width="1920" height="1020" alt="Login_page" src="https://github.com/user-attachments/assets/964b099b-c62c-40ed-b08d-8ad7b6c94234" />
