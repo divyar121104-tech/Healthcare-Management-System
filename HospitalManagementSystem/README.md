@@ -197,13 +197,11 @@ Password : admin123
 - Advanced analytics dashboard  
 
 ---
-
 ## 👨‍💻 Author
-
-**Naveen A**  
-📧 naveena170804@gmail.com  
-🐙 https://github.com/NAVEEN170804  
-🌐 https://naveen170804.github.io/Portfolio  
+Divya R
+📧 divya.r121104@gmail.com
+🐙 https://github.com/divyar121104-tech
+🌐 https://linkedin.com/in/divya-r-422b4b278
 
 ---
 
